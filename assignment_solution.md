@@ -1,44 +1,52 @@
-# LIVE CLASS ASSIGNMENT ANSWERS
+<img width="509" alt="Screenshot 2024-02-08 at 19 14 32" src="https://github.com/busybrainx99/assignment_first_live/assets/105159710/67b29c65-fac4-44c8-a266-87328f002601"># LIVE CLASS ASSIGNMENT ANSWERS
 ## Prior Questions
 Your login name: altschool i.e., home directory /home/altschool. The home directory contains the following sub-directories: code, tests, personal, misc unless otherwise specified, you are running commands from the home directory.
 ## Answer
-![Screenshot 2024-02-08 at 19.14.32](https://hackmd.io/_uploads/HkW95EBoa.png)
+<img width="509" alt="Screenshot 2024-02-08 at 19 14 32" src="https://github.com/busybrainx99/assignment_first_live/assets/105159710/bc057d81-ac1c-4d90-b575-d6b6207512e1">
 
-![Screenshot 2024-02-08 at 19.15.47](https://hackmd.io/_uploads/HkoccEBsT.png)
+<img width="405" alt="Screenshot 2024-02-08 at 19 15 47" src="https://github.com/busybrainx99/assignment_first_live/assets/105159710/4fc3ad41-b4b9-4450-ae6a-80eb69e53e9a">
 
-![Screenshot 2024-02-08 at 19.16.52](https://hackmd.io/_uploads/rJesqESip.png)
+<img width="428" alt="Screenshot 2024-02-08 at 19 16 52" src="https://github.com/busybrainx99/assignment_first_live/assets/105159710/a6eea27a-1765-4d02-8c52-a79c8c0cfd08">
+
 
 
 ## Question A
 Change directory to the tests directory using absolute pathname
 ## Answer
-![Screenshot 2024-02-08 at 19.18.00](https://hackmd.io/_uploads/Bk4oiVrsa.png)
+<img width="525" alt="Screenshot 2024-02-08 at 19 18 00" src="https://github.com/busybrainx99/assignment_first_live/assets/105159710/e65596c2-b250-4037-989c-5cfaf0048512">
+
 
 ## Question B
 Change directory to the tests directory using relative pathname
 ## Answer
-![Screenshot 2024-02-08 at 19.18.17](https://hackmd.io/_uploads/ry_Z34rsa.png)
+<img width="542" alt="Screenshot 2024-02-08 at 19 18 17" src="https://github.com/busybrainx99/assignment_first_live/assets/105159710/4a877248-5118-421f-8626-d6ebbbf1554a">
+
 
 ## Question C
 Use echo command to create a file named fileA with text content ‘Hello A’ in the misc directory
 ## Answer
-![Screenshot 2024-02-08 at 19.32.28](https://hackmd.io/_uploads/B1DU3NHiT.png)
+<img width="580" alt="Screenshot 2024-02-08 at 19 32 28" src="https://github.com/busybrainx99/assignment_first_live/assets/105159710/62505fef-3b88-4d3f-9aa1-6418f7055429">
 
-![Screenshot 2024-02-08 at 19.32.39](https://hackmd.io/_uploads/B1D8hVBsT.png)
+<img width="333" alt="Screenshot 2024-02-08 at 19 32 39" src="https://github.com/busybrainx99/assignment_first_live/assets/105159710/8a00c7a9-cb2c-43d7-9d1f-1e974578fc63">
+
 
 ## Question D
 Create an empty file named fileB in the misc directory. Populate the file with a dummy content afterwards
 ## Answer
-![Screenshot 2024-02-08 at 19.35.13](https://hackmd.io/_uploads/SkB23VrsT.png)
+<img width="540" alt="Screenshot 2024-02-08 at 19 35 13" src="https://github.com/busybrainx99/assignment_first_live/assets/105159710/790137de-36fd-43e2-a1e2-f38295b96c79">
 
-![Screenshot 2024-02-08 at 19.36.29](https://hackmd.io/_uploads/HyBnhErsa.png)
+<img width="855" alt="Screenshot 2024-02-08 at 19 36 29" src="https://github.com/busybrainx99/assignment_first_live/assets/105159710/c06a70d7-0abc-402b-8b7a-accfd8db6509">
+
+
 
 ## Question E
 Copy contents of fileA into fileC
 ## Answer
-![Screenshot 2024-02-08 at 19.41.00](https://hackmd.io/_uploads/H1gWaNria.png)
+<img width="610" alt="Screenshot 2024-02-08 at 19 41 00" src="https://github.com/busybrainx99/assignment_first_live/assets/105159710/364c6d5c-41d5-48ab-aa2b-421911b0e0bb">
 
-![Screenshot 2024-02-08 at 19.41.14](https://hackmd.io/_uploads/Bkg-6NSjp.png)
+<img width="536" alt="Screenshot 2024-02-08 at 19 41 14" src="https://github.com/busybrainx99/assignment_first_live/assets/105159710/acc72b8a-61d3-47b2-8dc4-757693040c13">
+
+
 
 ## Question F
 Move contents of fileB into fileD
@@ -51,45 +59,52 @@ Move contents of fileB into fileD
 ## Question G
 Create a tar archive called misc.tar for the contents of misc directory
 ## Answer
-![Screenshot 2024-02-08 at 19.50.34](https://hackmd.io/_uploads/HkPyREHja.png)
+<img width="404" alt="Screenshot 2024-02-08 at 19 50 34" src="https://github.com/busybrainx99/assignment_first_live/assets/105159710/9a26cc19-6f0d-44c0-810d-cce7163397b3">
+
 
 
 ## Question H
 Compress the tar archive to create a misc.tar.gz file
 ## Answer
-![Screenshot 2024-02-08 at 20.01.02](https://hackmd.io/_uploads/r14IRNro6.png)
+<img width="519" alt="Screenshot 2024-02-08 at 20 01 02" src="https://github.com/busybrainx99/assignment_first_live/assets/105159710/d2459496-a6ae-408b-b0c8-737710252cbc">
+
 
 
 ## Question I
  Create a user and force the user to change his/her password upon login
 ## Answer
-![Screenshot 2024-02-08 at 20.14.38](https://hackmd.io/_uploads/SJ8b1Brip.png)
+<img width="555" alt="Screenshot 2024-02-08 at 20 14 38" src="https://github.com/busybrainx99/assignment_first_live/assets/105159710/0f214cc1-9251-43fe-9269-20447b6bf1ef">
+
 
 
 ## Question J
 Lock a users password
 ## Answer
-![Screenshot 2024-02-08 at 20.19.03](https://hackmd.io/_uploads/HJCPkBSsT.png)
+<img width="439" alt="Screenshot 2024-02-08 at 20 19 03" src="https://github.com/busybrainx99/assignment_first_live/assets/105159710/2ea65386-d7df-4022-a0d9-826b749f79fc">
+
 
 ## Question k
 Create a user with no login shell
 ## Answer
-![Screenshot 2024-02-08 at 20.32.52](https://hackmd.io/_uploads/BkJ-xSHsa.png)
+<img width="550" alt="Screenshot 2024-02-08 at 20 32 52" src="https://github.com/busybrainx99/assignment_first_live/assets/105159710/b3506b8f-02e5-45b4-ba75-04ff00f13489">
+
 
 
 ## Question L
-Disable password based authentication for ssh
+Disable password-based authentication for SSH
 ## Answer
+<img width="365" alt="Screenshot 2024-02-10 at 18 34 27" src="https://github.com/busybrainx99/assignment_first_live/assets/105159710/94d772ce-b58e-43a4-b1a2-2db57d3cfc8d">
 
-![Screenshot 2024-02-10 at 18.34.27](https://hackmd.io/_uploads/SycXxBSsp.png)
+<img width="598" alt="Screenshot 2024-02-08 at 23 55 22" src="https://github.com/busybrainx99/assignment_first_live/assets/105159710/3f177e0c-c65b-41ce-b46d-3f76bddb4d5b">
 
-![Screenshot 2024-02-08 at 23.55.22](https://hackmd.io/_uploads/Syq7eHrjT.png)
+
 
 
 ## Question M
-Disable root login for ssh
+Disable root login for SSH
 ## Answer
-![Screenshot 2024-02-10 at 18.34.27](https://hackmd.io/_uploads/HyqqeHSjT.png)
+<img width="365" alt="Screenshot 2024-02-10 at 18 34 27" src="https://github.com/busybrainx99/assignment_first_live/assets/105159710/5836ea08-778a-4f53-9fbe-f840997cb1d1">
+
+<img width="273" alt="Screenshot 2024-02-10 at 11 38 36" src="https://github.com/busybrainx99/assignment_first_live/assets/105159710/25581ab3-9c1e-437d-8d9c-922322d14e2e">
 
 
-![Screenshot 2024-02-10 at 11.38.36](https://hackmd.io/_uploads/BkDFlSSo6.png)
