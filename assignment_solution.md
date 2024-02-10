@@ -51,9 +51,12 @@ Copy contents of fileA into fileC
 ## Question F
 Move contents of fileB into fileD
 ## Answer
-![Screenshot 2024-02-08 at 19.44.30](https://hackmd.io/_uploads/Hkmh6NHj6.png)
+<img width="644" alt="Screenshot 2024-02-08 at 19 44 30" src="https://github.com/busybrainx99/assignment_first_live/assets/105159710/dc153f4d-9913-40eb-b2c0-a7030a1c53ce">
 
-![Screenshot 2024-02-08 at 19.44.42](https://hackmd.io/_uploads/S1Q2aVroa.png)
+<img width="843" alt="Screenshot 2024-02-08 at 19 44 42" src="https://github.com/busybrainx99/assignment_first_live/assets/105159710/1dbb4d09-16b2-4694-8d2d-944f6a663735">
+
+
+
 
 
 ## Question G
