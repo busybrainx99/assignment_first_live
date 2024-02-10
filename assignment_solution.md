@@ -1,6 +1,6 @@
 # LIVE CLASS ASSIGNMENT ANSWERS
 ## Prior Questions
-Your login name: altschool i.e., home directory /home/altschool. The home directory contains the following sub-directories: code, tests, personal, misc Unless otherwise specified, you are running commands from the home directory.
+Your login name: altschool i.e., home directory /home/altschool. The home directory contains the following sub-directories: code, tests, personal, misc unless otherwise specified, you are running commands from the home directory.
 ## Answer
 ![Screenshot 2024-02-08 at 19.14.32](https://hackmd.io/_uploads/HkW95EBoa.png)
 
