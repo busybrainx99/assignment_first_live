@@ -1,4 +1,5 @@
-<img width="509" alt="Screenshot 2024-02-08 at 19 14 32" src="https://github.com/busybrainx99/assignment_first_live/assets/105159710/67b29c65-fac4-44c8-a266-87328f002601"># LIVE CLASS ASSIGNMENT ANSWERS
+# LIVE CLASS ASSIGNMENT ANSWERS
+
 ## Prior Questions
 Your login name: altschool i.e., home directory /home/altschool. The home directory contains the following sub-directories: code, tests, personal, misc unless otherwise specified, you are running commands from the home directory.
 ## Answer
